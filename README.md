@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Human Resource Management System (Full Stack Project)
 
 ![HRMS](https://user-images.githubusercontent.com/69399810/215176739-ebe7942e-b949-45bb-9af5-5474ea1cf503.png)
@@ -59,3 +60,6 @@ This is a full-stack web application where administrators can add projects to sp
 
 Contributor: [3dharmadev](https://github.com/3dharmadev)
 
+=======
+# New1
+>>>>>>> ca576d9dc887f4fa8868182fe32ed10d3acbc0bf
